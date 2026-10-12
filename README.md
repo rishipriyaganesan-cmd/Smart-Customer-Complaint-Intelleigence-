@@ -64,9 +64,8 @@ The dashboard presents complaint information through:
 - Average rating by category
 - Interactive slicers for exploring the data
 
-> **Dashboard screenshot**: Add your Power BI dashboard image to this repository and display it here.  
-> To display an uploaded image named `dashboard.png`, use:  
-> `![Power BI Dashboard](dashboard.png)`
+### Dashboard Preview
+![Power BI Dashboard](dashboard.png)
 
 ## 🧠 Machine Learning Approach
 
